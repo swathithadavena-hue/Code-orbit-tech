@@ -1,0 +1,19 @@
+SALES ANALYSIS REPORT
+=====================
+Period: 02 Jan 2026 to 30 Sep 2026
+
+Key metrics
+- Total sales: $137,840 across 250 orders
+- Average order value: $551.36
+- Top product: Laptop ($51,000)
+
+Findings
+- Electronics is the top category with $95,460 (69% of sales).
+- East is the strongest region ($48,010); West is the weakest ($27,885).
+- Monthly sales peaked in 2026-06 ($22,690) and were lowest in 2026-05 ($7,655).
+- The top 5 products generate 78% of total revenue.
+
+Recommendations
+- Keep inventory and marketing focus on Electronics.
+- Investigate why West lags and run a regional promotion.
+- Plan stock and campaigns around the 2026-06 peak.
